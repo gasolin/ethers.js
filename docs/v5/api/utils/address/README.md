@@ -28,7 +28,7 @@ The value of *address* may be any supported address format.
 
 #### *ethers* . *utils* . **getIcapAddress**( address ) => *string< [IcapAddress](/v5/api/utils/address/#address-icap) >*
 
-Returns *address* as an [ICAP address](https://github.com/ethereum/wiki/wiki/Inter-exchange-Client-Address-Protocol-%28ICAP%29). Supports the same restrictions as [getAddress](/v5/api/utils/address/#utils-getAddress).
+Returns *address* as an [ICAP address](https://eth.wiki/en/ideas/inter-exchange-client-address-protocol-icap). Supports the same restrictions as [getAddress](/v5/api/utils/address/#utils-getAddress).
 
 
 #### *ethers* . *utils* . **isAddress**( address ) => *boolean*
